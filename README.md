@@ -1,5 +1,4 @@
 # weather-app-by-S-R-Analytics
 
-Idee: Darstellung von Wetterdaten in einer App/Website
 
-Umsetzung: Mit Flutter-app-development
+Die Website dient der Darstellung des Projekts "Weather App", wobei auf der Website auf die Idee, die Umsetzung und mögliche Herausforderungen bei der Erstellung dieses Projekts eingegangen wird.
